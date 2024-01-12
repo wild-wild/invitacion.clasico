@@ -8,7 +8,7 @@
 /* para mobile */
 @media (max-width: 767px) {
     .confirmarAsistencia {
-        margin-top: 40px    !important;
+        margin-top: 60px !important;
     }
     .btnUbicacion {
         width: 100% !important;
@@ -17,7 +17,7 @@
 /* para tablet */
 @media (min-width: 768px) and (max-width: 991px) {
     .confirmarAsistencia {
-        margin-top: 40px    !important;
+        margin-top: 60px !important;
     }
     .btnUbicacion {
         width: 100% !important;
