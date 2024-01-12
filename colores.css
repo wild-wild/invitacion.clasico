@@ -1,3 +1,16 @@
 .bg_primario {
     background-color: #98a39c !important;
 }
+
+
+/* confirmar asistencia */
+
+/* para mobile */
+@media (max-width: 767px) {
+    .confirmarAsistencia {
+        margin-top: 30px;
+    }
+    .btnUbicacion {
+        width: 100% !important;
+    }
+}
