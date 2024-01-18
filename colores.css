@@ -2,9 +2,6 @@
     background-color: #c0a65f !important;
 }
 
-
-/* confirmar asistencia */
-
 /* para mobile */
 @media (max-width: 767px) {
     .confirmarAsistencia {
@@ -29,9 +26,6 @@
         padding: 0 0 8rem 0 !important;
     }
 }
-
-
-
 /* para tablet */
 @media (min-width: 768px) and (max-width: 991px) {
     .confirmarAsistencia {
